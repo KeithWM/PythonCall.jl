@@ -63,7 +63,7 @@ const BUILTINS = Set([
     :globals,
     :hasattr,
     :hash,
-    :help,
+#     :help,
     :hex,
     :id,
     :input,
